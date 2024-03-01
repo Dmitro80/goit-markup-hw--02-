@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto" "sans-serif", "Raleway", "sans-serif";
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -105,19 +105,7 @@ a {
 .hero-btn:focus {
   background-color: #404bbf;
 }
-/*.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
 
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}*/
 .features {
 }
 .features-list {
@@ -142,7 +130,7 @@ a {
 
 /*OUR TEAM*/
 .team {
-  background: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-title {
   font-weight: 700;
