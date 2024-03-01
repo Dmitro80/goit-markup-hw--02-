@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto" sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -145,6 +145,7 @@ a {
   background-color: #ffffff;
 }
 .team-list-items {
+  background-color: #ffffff;
 }
 .team-list-title {
   font-weight: 500;
